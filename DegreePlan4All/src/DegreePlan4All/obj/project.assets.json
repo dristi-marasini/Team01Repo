@@ -12072,23 +12072,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\S533985\\.nuget\\packages\\": {},
+    "C:\\Users\\s531367\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S533985\\Documents\\44663\\Team01Repo\\DegreePlan4All\\src\\DegreePlan4All\\DegreePlan4All.csproj",
+      "projectUniqueName": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\DegreePlan4All\\src\\DegreePlan4All\\DegreePlan4All.csproj",
       "projectName": "DegreePlan4All",
-      "projectPath": "C:\\Users\\S533985\\Documents\\44663\\Team01Repo\\DegreePlan4All\\src\\DegreePlan4All\\DegreePlan4All.csproj",
-      "packagesPath": "C:\\Users\\S533985\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S533985\\Documents\\44663\\Team01Repo\\DegreePlan4All\\src\\DegreePlan4All\\obj\\",
+      "projectPath": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\DegreePlan4All\\src\\DegreePlan4All\\DegreePlan4All.csproj",
+      "packagesPath": "C:\\Users\\s531367\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\DegreePlan4All\\src\\DegreePlan4All\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\S533985\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\s531367\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
