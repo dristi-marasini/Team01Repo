@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s531367\\source\\repos\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
+      "projectUniqueName": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
       "projectName": "Team01Section01Project",
-      "projectPath": "C:\\Users\\s531367\\source\\repos\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
+      "projectPath": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
       "packagesPath": "C:\\Users\\s531367\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s531367\\source\\repos\\Team01Section01Project\\Team01Section01Project\\obj\\",
+      "outputPath": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
