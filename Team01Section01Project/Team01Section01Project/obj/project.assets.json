@@ -12074,23 +12074,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s531367\\.nuget\\packages\\": {},
+    "C:\\Users\\S533985\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
+      "projectUniqueName": "C:\\Users\\S533985\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
       "projectName": "Team01Section01Project",
-      "projectPath": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
-      "packagesPath": "C:\\Users\\s531367\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s531367\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\obj\\",
+      "projectPath": "C:\\Users\\S533985\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\Team01Section01Project.csproj",
+      "packagesPath": "C:\\Users\\S533985\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\S533985\\Documents\\44663\\Team01Repo\\Team01Section01Project\\Team01Section01Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\s531367\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\S533985\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
