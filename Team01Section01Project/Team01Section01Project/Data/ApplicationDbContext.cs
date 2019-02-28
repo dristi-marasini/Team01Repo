@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Team01Section01Project.Models;
 
 namespace Team01Section01Project.Data
 {
@@ -12,5 +13,9 @@ namespace Team01Section01Project.Data
             : base(options)
         {
         }
+
+        public DbSet<DegreePlan> DegreePlans { get; set; }
+        public DbSet<DegreePlanTermRequirement> DegreePlanTermRequirements { get; set; }
+        public DbSet<Student> Students { get; set; }
     }
 }
