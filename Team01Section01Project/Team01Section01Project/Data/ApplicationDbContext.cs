@@ -25,3 +25,4 @@ namespace Team01Section01Project.Data
             modelBuilder.Entity<Student>().ToTable("Student");
         }
     }
+}
