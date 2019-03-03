@@ -18,8 +18,10 @@ namespace Team01Section01Project.Data
         public DbSet<DegreePlanTermRequirement> DegreePlanTermRequirements { get; set; }
         public DbSet<Student> Students { get; set; }
 
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<DegreePlan>().ToTable("DegreePlan");
             modelBuilder.Entity<DegreePlanTermRequirement>().ToTable("DegreePlanTermRequirement");
             modelBuilder.Entity<Student>().ToTable("Student");
